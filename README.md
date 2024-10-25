@@ -15,7 +15,7 @@ git clone https://github.com/onuryilmaze/SCreact.git
 2. Navigate to the project folder
 
 ```
-cd SC-react
+cd SC-React
 ```
 
 3. Install dependencies
